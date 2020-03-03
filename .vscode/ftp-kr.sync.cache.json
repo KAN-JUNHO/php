@@ -1,0 +1,170 @@
+{
+  "ftp://junho7778.dothome.co.kr:21@junho7778": {
+    "html": {
+      ".htaccess": {
+        "type": "-",
+        "size": 162,
+        "lmtime": 0,
+        "modified": false
+      },
+      "1-1.php": {
+        "type": "-",
+        "size": 231,
+        "lmtime": 0,
+        "modified": false
+      },
+      "1-2.php": {
+        "type": "-",
+        "size": 108,
+        "lmtime": 0,
+        "modified": false
+      },
+      "2-2.html": {
+        "type": "-",
+        "size": 2608,
+        "lmtime": 0,
+        "modified": false
+      },
+      "2-2.ㅗ싀": {
+        "type": "-",
+        "size": 0,
+        "lmtime": 0,
+        "modified": false
+      },
+      "2-3.html": {
+        "type": "-",
+        "size": 0,
+        "lmtime": 0,
+        "modified": false
+      },
+      "ch1": {},
+      "ch2": {},
+      "farm": {},
+      "farmstory": {
+        "LICENSE.txt": {
+          "type": "-",
+          "size": 63147,
+          "lmtime": 0,
+          "modified": false
+        },
+        "_common.php": {
+          "type": "-",
+          "size": 38,
+          "lmtime": 0,
+          "modified": false
+        },
+        "_head.php": {
+          "type": "-",
+          "size": 112,
+          "lmtime": 0,
+          "modified": false
+        },
+        "_tail.php": {
+          "type": "-",
+          "size": 112,
+          "lmtime": 0,
+          "modified": false
+        },
+        "adm": {},
+        "bbs": {},
+        "common.php": {
+          "type": "-",
+          "size": 26872,
+          "lmtime": 0,
+          "modified": false
+        },
+        "config.php": {
+          "type": "-",
+          "size": 9377,
+          "lmtime": 0,
+          "modified": false
+        },
+        "css": {},
+        "data": {},
+        "extend": {},
+        "g4_import.php": {
+          "type": "-",
+          "size": 2485,
+          "lmtime": 0,
+          "modified": false
+        },
+        "g4_import_run.php": {
+          "type": "-",
+          "size": 11419,
+          "lmtime": 0,
+          "modified": false
+        },
+        "head.php": {
+          "type": "-",
+          "size": 2289,
+          "lmtime": 1583200145411,
+          "modified": true
+        },
+        "head.sub.php": {
+          "type": "-",
+          "size": 4149,
+          "lmtime": 0,
+          "modified": true
+        },
+        "img": {},
+        "index copy.php": {
+          "type": "-",
+          "size": 404,
+          "lmtime": 0,
+          "modified": false
+        },
+        "index.php": {
+          "type": "-",
+          "size": 5434,
+          "lmtime": 0,
+          "modified": false
+        },
+        "install": {},
+        "js": {},
+        "lib": {},
+        "mobile": {},
+        "pax_global_header": {
+          "type": "-",
+          "size": 52,
+          "lmtime": 0,
+          "modified": false
+        },
+        "perms.sh": {
+          "type": "-",
+          "size": 398,
+          "lmtime": 0,
+          "modified": false
+        },
+        "plugin": {},
+        "skin": {},
+        "tail.php": {
+          "type": "-",
+          "size": 958,
+          "lmtime": 0,
+          "modified": true
+        },
+        "tail.sub.php": {
+          "type": "-",
+          "size": 558,
+          "lmtime": 0,
+          "modified": false
+        },
+        "theme": {}
+      },
+      "favicon.ico": {
+        "type": "-",
+        "size": 0,
+        "lmtime": 0,
+        "modified": false
+      },
+      "gnu": {},
+      "setup-finish.html": {
+        "type": "-",
+        "size": 293,
+        "lmtime": 0,
+        "modified": false
+      }
+    }
+  },
+  "$version": 1
+}

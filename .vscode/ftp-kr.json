@@ -1,0 +1,16 @@
+{
+    "host": "junho7778.dothome.co.kr",
+    "username": "junho7778",
+    "remotePath": "/html",
+    "protocol": "ftp",
+    "port": 21,
+    "fileNameEncoding": "utf8",
+    "autoUpload": true,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ],
+    "password": "wnsgh1541!"
+}
