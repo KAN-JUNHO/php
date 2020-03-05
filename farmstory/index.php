@@ -51,96 +51,19 @@ include_once(G5_PATH.'/head.php');
 					<div>
 						<a href="#"><img src="img/main_latest1_tit.png" alt="텃밭가꾸기" /></a>
 						<img src="img/main_latest1_img.jpg" alt="열매이미지" />
-						<table>
-							<tr>
-								<td>></td>
-								<td>안녕하세요. 반갑습니다. HELLO~</td>
-								<td>17-01-20</td>
-							</tr>
-							<tr>
-								<td>></td>
-								<td>안녕하세요. 반갑습니다. HELLO~</td>
-								<td>17-01-20</td>
-							</tr>
-							<tr>
-								<td>></td>
-								<td>안녕하세요. 반갑습니다. HELLO~</td>
-								<td>17-01-20</td>
-							</tr>
-							<tr>
-								<td>></td>
-								<td>안녕하세요. 반갑습니다. HELLO~</td>
-								<td>17-01-20</td>
-							</tr>
-							<tr>
-								<td>></td>
-								<td>안녕하세요. 반갑습니다. HELLO~</td>
-								<td>17-01-20</td>
-							</tr>
-						</table>
+						<?= latest('basic','grow',5,26); ?>
 					</div>
 
 					<div>
 						<a href="#"><img src="img/main_latest2_tit.png" alt="텃밭가꾸기" /></a>
 						<img src="img/main_latest2_img.jpg" alt="열매이미지" />
-						<table>
-							<tr>
-								<td>></td>
-								<td>안녕하세요. 반갑습니다. HELLO~</td>
-								<td>17-01-20</td>
-							</tr>
-							<tr>
-								<td>></td>
-								<td>안녕하세요. 반갑습니다. HELLO~</td>
-								<td>17-01-20</td>
-							</tr>
-							<tr>
-								<td>></td>
-								<td>안녕하세요. 반갑습니다. HELLO~</td>
-								<td>17-01-20</td>
-							</tr>
-							<tr>
-								<td>></td>
-								<td>안녕하세요. 반갑습니다. HELLO~</td>
-								<td>17-01-20</td>
-							</tr>
-							<tr>
-								<td>></td>
-								<td>안녕하세요. 반갑습니다. HELLO~</td>
-								<td>17-01-20</td>
-							</tr>
-						</table>
+						<?= latest('basic','school',5,26); ?>
 					</div>
 
 					<div>
 						<a href="#"><img src="img/main_latest3_tit.png" alt="텃밭가꾸기" /></a>
 						<img src="img/main_latest3_img.jpg" alt="열매이미지" />
-						<table>
-							<tr>
-								<td>></td>
-								<td>안녕하세요. 반갑습니다. HELLO~</td>
-								<td>17-01-20</td>
-							</tr>
-							<tr>
-								<td>></td>
-								<td>안녕하세요. 반갑습니다. HELLO~</td>
-								<td>17-01-20</td>
-							</tr>
-							<tr>
-								<td>></td>
-								<td>안녕하세요. 반갑습니다. HELLO~</td>
-								<td>17-01-20</td>
-							</tr>
-							<tr>
-								<td>></td>
-								<td>안녕하세요. 반갑습니다. HELLO~</td>
-								<td>17-01-20</td>
-							</tr>
-							<tr>
-								<td>></td>
-								<td>안녕하세요. 반갑습니다. HELLO~</td>
-								<td>17-01-20</td>
-							</tr>
+						<?= latest('basic','school',5,26); ?>
 						</table>
 					</div>
 
